@@ -1,1 +1,1 @@
-SELECT * FROM control_clientes.cliente;
+
